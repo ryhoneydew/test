@@ -1,0 +1,28 @@
+body {
+    font-family: font-family: 'Raleway', sans-serif;
+    margin: 3% auto;
+    padding: 3%;
+    border: 60px solid lightblue;
+    max-width: 700px;
+    width: 80%
+}
+
+p {
+    font-size: 1.1em;
+}
+
+.date {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2em;
+    letter-spacing: 2px;
+}
+
+.first-paragraph {
+    border-left: 4px solid lightblue;
+    padding-left: 10px;
+}
+
+.line-style {
+    border-top: 1px solid #8c8b8b;
+    opacity: 50%;
+}
